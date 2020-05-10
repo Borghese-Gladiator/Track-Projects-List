@@ -1,5 +1,4 @@
-## Author
-Timothy Shee
+## Author: Timothy Shee
 
 # Simple static site to track tools I've written
 
