@@ -1,6 +1,6 @@
 ## Welcome to my Projects List
 
-* My Website: 
+* My Website: [https://timothy-shee.github.io/TS-Website/](https://timothy-shee.github.io/TS-Website/)
 * Python WhatsApp Chatbot (w/ Twilio): [https://my-python-chatbot.herokuapp.com/](https://my-python-chatbot.herokuapp.com/)
 * GAN Image Generation of Fake Anime Characters
 * DeepFake of Celebrities
