@@ -1,5 +1,5 @@
-## Author: Timothy Shee
+# Author: Timothy Shee
 
-# Simple static site to track tools I've written
+## Simple static site to track tools I've written
 
-# Date Started: 5 / 9 / 2020
+## Date Started: 5 / 9 / 2020
