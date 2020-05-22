@@ -8,6 +8,10 @@
   * FrontEnd: MaterializeCSS, React, Redux, Axios, Passport (for JWT)
   * BackEnd: Express, Mongoose, MongoDB (mLab)
   * Date Deployed: 5 / 13 / 2020
+* Handwritten Digit Classifier (Android App)
+  * No Demo because app is mobile and pushing to Google Playstore costs $25
+  * Technologies Used: TensorFlow Lite, Android Studio, Kotlin, Gradle
+  * Date Created: 5 / 22 / 2020
 * MeetSync - calendar app
 
 * GAN Image Generation of Fake Anime Characters
