@@ -12,6 +12,14 @@
   * No Demo because app is mobile and pushing to Google Playstore costs $25
   * Technologies Used: TensorFlow Lite, Android Studio, Kotlin, Gradle
   * Date Created: 5 / 22 / 2020
+
+
+* First Ruby on Rails Project - Completed
+* First Ionic app (with Cordova) - Completed
+* First SQLite with Express React Node app - Completed
+* First React Native w/o Expo app - Completed
+
+
 * MeetSync - calendar app
 
 * GAN Image Generation of Fake Anime Characters
